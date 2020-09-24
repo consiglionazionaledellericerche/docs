@@ -91,3 +91,5 @@ altre applicazioni che possono collegarsi direttamente a flussi
 specifici. Tali applicazioni avranno una propria gestione interna dei
 dati e si avvarranno di Scrivania per la parte amministrativa (es. firma
 digitale).
+
+`Vai al codice <https://github.com/consiglionazionaledellericerche/sprint-flows>`_
