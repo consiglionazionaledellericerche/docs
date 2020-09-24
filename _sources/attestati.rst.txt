@@ -13,7 +13,7 @@ La procedura “Attestati CNR” raccoglie mensilmente, dalla galassia degli ist
 
 Tali informazioni possono essere acquisite in procedura anche tramite file di testo. 
 
-In sintesi vengono riepilogati i principali passi del processo che la procedura Attestati:
+In sintesi vengono riepilogati i principali passi del processo della procedura Attestati:
 
 -  Stralcio dati dalla procedura del Personale al sistema degli Attestati;
 
