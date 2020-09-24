@@ -1,0 +1,12 @@
+--- 
+document:
+  name: "Progetti Software"
+  description: "Il presente documento elenca i Software Gestionali e Amministrativi sviluppati dal CNR, attualmente in produzione, gestiti e manutenuti dal CNR."
+  github_user: consiglionazionaledellericerche
+  github_repo: docs
+  github_version: master
+  downloads:
+    - type: pdf
+      url: Progetti Software CNR.pdf
+    - type: epub
+      url: Progetti Software CNR.epub
