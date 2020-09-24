@@ -1,31 +1,28 @@
 ATTESTATI
 =========
 
-La procedura “Attestati CNR”, gestisce gli attestati di presenza. La
-procedura raccoglie tutti i dati necessari al Sistema Informativo del
-Personale per il calcolo stipendiale, in particolare per quanto
-riguarda:
+La procedura “Attestati CNR” raccoglie mensilmente, dalla galassia degli istituti CNR, tutti i dati necessari al Sistema Informativo del Personale per il calcolo stipendiale, in particolare per quanto riguarda:
 
--  competenze (straordinari, turni, indennità, ecc)
+-  competenze (straordinari, turni, indennità, ecc);
 
--  assenze (giornaliere, orarie, ecc.)
+-  assenze (giornaliere, orarie, ecc.);
 
--  ore di formazione effettuate
+-  ore di formazione effettuate;
 
--  numero di buoni pasto spettanti
+-  numero di buoni pasto spettanti.
 
-Tali informazioni possono essere acquisite in procedura anche tramite
-file di testo. In sintesi vengono riepilogati i passi del processo che
-la procedura Attestati copre:
+Tali informazioni possono essere acquisite in procedura anche tramite file di testo. 
 
--  Stralcio dati dalla procedura del Personale;
+In sintesi vengono riepilogati i principali passi del processo che la procedura Attestati:
 
--  Caricamento assenze e competenze;
+-  Stralcio dati dalla procedura del Personale al sistema degli Attestati;
 
--  Validazione Attestati;
+-  Caricamento per ogni singolo dipendente delle assenze, competenze, ore di formazione e numero buoni pasto spettanti nel mese con contestuale controllo del diritto ad usufruirne;
 
--  Invio Attestati al Direttore per la validazione;
+-  Validazione Attestati da parte del compilatore;
 
-   -  Il Direttore Valida o Respinge
+-  Invio dell'Attestato al Direttore per la validazione finale;
 
--  Trasmissione dati alla procedura del Personale.
+   -  Il Direttore Valida o Respinge;
+
+-  Trasmissione automatica dei dati alla procedura del Personale per il conseguenziale calcolo stipendiale.
