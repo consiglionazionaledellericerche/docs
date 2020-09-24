@@ -1,4 +1,0 @@
-Caratteristiche Tecniche
-========================
-
-Caratteristiche tecniche ……………………………

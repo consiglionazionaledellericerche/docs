@@ -1,13 +1,12 @@
-=====================
-Progetti Software CNR
-=====================
+===============================
+Progetti Software - Ufficio ICT
+===============================
 
 .. toctree::
   :maxdepth: 3
   :caption: Indice dei contenuti
 
   introduzione.rst
-  caratteristiche-tecniche.rst
   elenco-prodotti.rst
   sigla.rst
   selezioni-online.rst
