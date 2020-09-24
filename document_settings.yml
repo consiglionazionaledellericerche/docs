@@ -7,6 +7,6 @@ document:
   github_version: master
   downloads:
     - type: pdf
-      url: Progetti Software CNR.pdf
+      url: Progetti_Software_CNR.pdf
     - type: epub
-      url: Progetti Software CNR.epub
+      url: Progetti_Software_CNR.epub

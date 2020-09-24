@@ -30,12 +30,12 @@ show_authors = True
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-    ('index', 'Progetti Software CNR.tex', project, author, 'manual'),
+    ('index', 'Progetti_Software_CNR.tex', project, author, 'manual'),
 ]
 latex_elements = {
     'extraclassoptions': 'openany,oneside'
 }
-epub_basename = u'Progetti Software CNR'
+epub_basename = u'Progetti_Software_CNR'
 
 html_theme = "docs_italia_theme"
 html_theme_path = [docs_italia_theme.get_html_theme_path()]
