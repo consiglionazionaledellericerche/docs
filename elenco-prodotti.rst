@@ -1,7 +1,7 @@
 Elenco Prodotti
 ===============
 
-Di seguito l’elenco dei Prodotti Software implementati dal CNR:
+Di seguito l’elenco dei Prodotti Software sviluppati dall'Ufficio ICT del CNR:
 
 
 +------------------------------------------------+-----------------------------------------------------+------------------------+
