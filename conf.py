@@ -22,7 +22,7 @@ source_parsers = {
     '.md': CommonMarkParser,
 }
 
-project = 'Progetti Software'
+project = 'Progetti Software - Ufficio ICT'
 release = '1.0.0'
 author = u'Consiglio Nazionale delle Ricerche'
 
@@ -40,14 +40,8 @@ epub_basename = u'Progetti_Software_CNR'
 html_theme = "docs_italia_theme"
 html_theme_path = [docs_italia_theme.get_html_theme_path()]
 
-# Choose the material theme
-#html_theme = 'sphinx_material'
-#html_theme = 'sphinx_materialdesign_theme'
-# Get the them path
-#html_theme_path = sphinx_material.html_theme_path()
-# Register the required helpers for the html context
-#html_context = sphinx_material.get_html_context()
 copyright = "2020 Consiglio Nazionale delle Ricerche"
+html_title = "Progetti Software - Ufficio ICT"
 html_show_sourcelink = False
 html_favicon = "favicon.ico"
 html_logo = "logo.png"
