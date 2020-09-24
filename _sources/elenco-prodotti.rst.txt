@@ -3,43 +3,38 @@ Elenco Prodotti
 
 Di seguito l’elenco dei Prodotti Software implementati dal CNR:
 
-1. **SIGLA** – In Riuso
 
-   Sistema Integrato per la Gestione delle Linee di Attività;
-
-2. **SELEZIONI ONLINE** – In Riuso
-
-Sistema di presentazione delle candidature online per il reclutamento
-del personale
-
-3.  **SCRIVANIA DIGITALE** – In Riuso
-
-    Gestione Flussi Amministrativi
-
-4.  **SIPER** – A breve in Riuso
-
-    Servizi in linea per il Personale
-
-5.  **EPAS** – A breve in Riuso
-
-    Rilevazione Presenze del Personale
-
-6.  **ATTESTATI** - A breve in Riuso
-
-    Gestione Assenze e Competenze del Personale
-
-7.  **MISSIONI** – A breve in Riuso
-
-    Gestione Ordine e Rimborso Missioni
-
-8.  **ACE** – A breve in Riuso
-
-    Gestione Anagrafica Centralizzata
-
-9.  **GESFOR** - A breve in Riuso
-
-    Gestione della Formazione
-
-10. **OIL** - A breve in Riuso
-
-    Helpdesk Online
++------------------------------------------------+-----------------------------------------------------+------------------------+
+|                                                |                                                     |                        |
+| Nome                                           | Descrizione                                         | In Riuso               |
++================================================+=====================================================+========================+
+|                                                |Sistema Integrato per la Gestione delle              |                        | 
+| :doc:`SIGLA<sigla>`                            |Linee di Attività                                    | Si                     |
++------------------------------------------------+-----------------------------------------------------+------------------------+
+|                                                |Sistema di presentazione delle candidature online    |                        | 
+| :doc:`SELEZIONI ONLINE<selezioni-online>`      |per il reclutamento del personale                    | Si                     |
++------------------------------------------------+-----------------------------------------------------+------------------------+
+|                                                |Gestione Flussi Amministrativi                       |                        | 
+| :doc:`SCRIVANIA DIGITALE<scrivania-digitale>`  |                                                     | Si                     |
++------------------------------------------------+-----------------------------------------------------+------------------------+
+|                                                |Servizi in linea per il Personale                    |                        | 
+| :doc:`SIPER<siper>`                            |                                                     | A breve                |
++------------------------------------------------+-----------------------------------------------------+------------------------+
+|                                                |Rilevazione Presenze del Personale                   |                        | 
+| :doc:`EPAS<epas>`                              |                                                     | A breve                |
++------------------------------------------------+-----------------------------------------------------+------------------------+
+|                                                |Gestione Assenze e Competenze del Personale          |                        | 
+| :doc:`ATTESTATI<attestati>`                    |                                                     | A breve                |
++------------------------------------------------+-----------------------------------------------------+------------------------+
+|                                                |Gestione Ordine e Rimborso Missioni                  |                        | 
+| :doc:`MISSIONI<missioni>`                      |                                                     | Entro l'anno           |
++------------------------------------------------+-----------------------------------------------------+------------------------+
+|                                                |Gestione Anagrafica Centralizzata                    |                        | 
+| :doc:`ACE<ace>`                                |                                                     | Entro l'anno           |
++------------------------------------------------+-----------------------------------------------------+------------------------+
+|                                                |Gestione della Formazione del Personale              |                        | 
+| :doc:`GESFOR<gesfor>`                          |                                                     | Entro l'anno           |
++------------------------------------------------+-----------------------------------------------------+------------------------+
+|                                                |Helpdesk Online                                      |                        | 
+| :doc:`OIL<oil>`                                |                                                     | Si                     |
++------------------------------------------------+-----------------------------------------------------+------------------------+
