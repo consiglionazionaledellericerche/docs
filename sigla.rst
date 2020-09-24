@@ -66,4 +66,4 @@ funzionalità di dettaglio:
 -  Gestione Consuntivo e Funzionalità di fine anno.
 
 
-`Vai al codice<https://github.com/consiglionazionaledellericerche/sigla-main>`_
+`Vai al codice <https://github.com/consiglionazionaledellericerche/sigla-main>`_
