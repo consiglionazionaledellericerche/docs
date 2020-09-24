@@ -50,3 +50,5 @@ che siano rese visibili agli utenti. Esiste infine, come accennato
 sopra, un amministratore, che si occupa della configurazione del
 sistema, svolgendo compiti quali la creazione delle utenze, la
 definizione delle categorie, etc.
+
+`Vai al codice<https://github.com/consiglionazionaledellericerche/oil>`_
