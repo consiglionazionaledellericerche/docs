@@ -46,6 +46,7 @@ html_show_sourcelink = False
 html_favicon = "favicon.ico"
 html_logo = "logo.png"
 latex_logo = 'logo.png'
+html_baseurl = 'docs'
 smartquotes = False
 language = "it"
 # The master toctree document.
