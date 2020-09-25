@@ -52,7 +52,9 @@ Più in dettaglio, la procedura prevede la gestione di:
 -  Invio automatico dei dati relativa all’assenza verso la procedura di 
    Rilevazione presenze (ePAS o altro sistema) 
 
+
 Con la Procedura Missioni si possono raggiungere i seguenti obiettivi:
+
 -  Informatizzare il processo della missione;
 
 -  Dematerializzare completamente il processo di missione, dalla proposta 
