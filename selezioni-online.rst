@@ -31,3 +31,5 @@ partecipano ai Bandi, è prevista una fase di:
    corso.
 
 `Vai al codice <https://github.com/consiglionazionaledellericerche/cool-jconon>`_
+
+`Vai alla documentazione <https://consiglionazionaledellericerche.github.io/cool-jconon>`_
