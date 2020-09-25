@@ -27,13 +27,13 @@ Di seguito l’elenco dei Prodotti Software sviluppati dall'Ufficio ICT del CNR:
 | :doc:`ATTESTATI<attestati>`                    |                                                     | A breve                |
 +------------------------------------------------+-----------------------------------------------------+------------------------+
 |                                                |Gestione Ordine e Rimborso Missioni                  |                        | 
-| :doc:`MISSIONI<missioni>`                      |                                                     | Entro l'anno           |
+| :doc:`MISSIONI<missioni>`                      |                                                     | A breve                |
 +------------------------------------------------+-----------------------------------------------------+------------------------+
 |                                                |Gestione Anagrafica Centralizzata                    |                        | 
-| :doc:`ACE<ace>`                                |                                                     | Entro l'anno           |
+| :doc:`ACE<ace>`                                |                                                     | A breve                |
 +------------------------------------------------+-----------------------------------------------------+------------------------+
 |                                                |Gestione della Formazione del Personale              |                        | 
-| :doc:`GESFOR<gesfor>`                          |                                                     | Entro l'anno           |
+| :doc:`GESFOR<gesfor>`                          |                                                     | A breve                |
 +------------------------------------------------+-----------------------------------------------------+------------------------+
 |                                                |Helpdesk Online                                      |                        | 
 | :doc:`OIL<oil>`                                |                                                     | Si                     |
