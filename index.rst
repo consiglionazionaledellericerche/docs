@@ -9,7 +9,7 @@ Progetti Software - Ufficio ICT
 
 .. toctree::
   :numbered:
-  :caption: Indice dei contenuti
+  :caption: Indice dei progetti
 
   sigla.rst
   selezioni-online.rst
