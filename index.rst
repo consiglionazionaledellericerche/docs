@@ -5,7 +5,7 @@ Progetti Software - Ufficio ICT
 .. toctree::
 
   introduzione.rst
-  elenco-prodotti.rst
+  elenco-progetti.rst
 
 .. toctree::
   :numbered:
