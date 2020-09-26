@@ -3,11 +3,14 @@ Progetti Software - Ufficio ICT
 ===============================
 
 .. toctree::
-  :maxdepth: 3
-  :caption: Indice dei contenuti
 
   introduzione.rst
   elenco-prodotti.rst
+
+.. toctree::
+  :numbered:
+  :caption: Indice dei contenuti
+
   sigla.rst
   selezioni-online.rst
   scrivania-digitale.rst
