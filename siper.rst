@@ -31,7 +31,7 @@ Principali procedure amministrative e/o servizi supportati:
 
 -  Comunicazioni dall’Amministrazione Centrale verso i dipendenti (come
    esiti di domande presentate, notifiche riguardanti cedolini o altri
-   servizi forniti dal portale ecc.);
+   servizi forniti dal portale);
 
 -  Gestione di Domande per il personale (come ad esempio Domande di
    Borse di Studio, Sussidi, Legge 104, Telelavoro, Assegni Familiari
