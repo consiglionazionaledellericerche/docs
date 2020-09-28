@@ -29,4 +29,6 @@ Gli argomenti ‘centralizzati’ si possono riassumere in:
 -  Ruoli (Ruoli Istituzionali, Applicativi o Funzionali legati alle
    Persone ed eventualmente alle Entità Organizzative).
 
-`Vai alla documentazione <https://consiglionazionaledellericerche.github.io/ace-docs>`_
+.. seealso::
+
+   - `Vai alla documentazione <https://consiglionazionaledellericerche.github.io/ace-docs>`_
