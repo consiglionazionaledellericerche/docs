@@ -24,33 +24,23 @@ Il Sistema cura gli aspetti funzionali relativi a:
 
 Più in dettaglio, la procedura prevede la gestione di:
 
--  Acquisizione dati Personale Dipendente CNR e Strutture CNR
-   (SIPER-SIGLA)
+-  Acquisizione informazioni relative a dati del Personale CNR, dipendenti/personale esterno, e Strutture CNR;
 
--  Acquisizione dati Personale non dipendente CNR (Gestione Istituti, Dipartimenti, 
-   SIPER-SIGLA)
+-  Proposta di Ordine di Missione;
 
--  Proposta di Ordine di di Missione (Missioni);
+-  Eventuale Richiesta dell’Anticipo per la missione;
 
--  Eventuale Richiesta dell’Anticipo per la missione (Missioni);
+-  Verifica amministrativa della proposta di Ordine di Missione;
 
--  Verifica amministrativa della proposta di Ordine di Missione (Missioni);
+-  Autorizzazione Amministrativa dell’Ordine di Missione (Scrivania Digitale);
 
--  Trasformazione della proposta di Ordine di Missione in Ordine di Missione 
-   attraverso il Processo autorizzativo previsto per l’Ordine di Missione 
-   (Scrivania Digitale);
-
--  Richiesta del conseguente Rimborso della Missione (Missioni);
-
--  Verifica amministrativa del Rimborso della Missione (Missioni);
+-  Richiesta Rimborso della Missione;
 
 -  Processo autorizzativo del Rimborso Missione (Scrivania Digitale);
 
--  Invio automatico dei dati alla procedura Contabile per la
-   liquidazione del rimborso (Sigla);
+-  Invio automatico dei dati alla procedura Contabile per la liquidazione del rimborso (Sigla);
 
--  Invio automatico dei dati relativa all’assenza verso la procedura di 
-   Rilevazione presenze (ePAS o altro sistema) 
+-  Invio automatico dei dati relativa all’assenza verso la procedura di Rilevazione presenze (ePAS o altro sistema) 
 
 
 Con la Procedura Missioni si possono raggiungere i seguenti obiettivi:
