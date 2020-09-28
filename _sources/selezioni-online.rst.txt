@@ -98,4 +98,4 @@ La creazione del bando riservata agli utenti appartenenti ai gruppi, è composta
    - `Vai al codice <https://github.com/consiglionazionaledellericerche/cool-jconon>`_
    - `Vai alla documentazione <https://consiglionazionaledellericerche.github.io/cool-jconon>`_
    - `Scarica manuale in pdf <https://consiglionazionaledellericerche.github.io/cool-jconon/Manuale-Selezioni-online.pdf>`_
-   - `Portale del riuso <https://developers.italia.it/it/software/cnr-consiglionazionaledellericerche-cool-jconon>`_
+   - `Vai al portale del riuso <https://developers.italia.it/it/software/cnr-consiglionazionaledellericerche-cool-jconon>`_
