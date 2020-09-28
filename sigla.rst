@@ -75,5 +75,5 @@ funzionalità di dettaglio:
    - `Vai al codice <https://github.com/consiglionazionaledellericerche/sigla-main>`_
    - `Vai alla documentazione <https://consiglionazionaledellericerche.github.io/sigla-main>`_
    - `Scarica manuale in pdf <https://consiglionazionaledellericerche.github.io/sigla-main/Manuale-SIGLA.pdf>`_
-   - `Portale del riuso <https://developers.italia.it/it/software/cnr-consiglionazionaledellericerche-sigla-main>`_
+   - `Vai al portale del riuso <https://developers.italia.it/it/software/cnr-consiglionazionaledellericerche-sigla-main>`_
    
