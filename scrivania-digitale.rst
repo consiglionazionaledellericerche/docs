@@ -40,7 +40,7 @@ particolare è stata predisposta per:
 -  **Supervisionare** (la ricerca dei flussi permette avere sotto
    controllo i processi)
 
-Le funzionalità sviluppato a supporto dell'esecuzione dei processi
+Le funzionalità sviluppate a supporto dell'esecuzione dei processi
 amministrativi sono:
 
 -  **Gestione dell'autenticazione** che può avvenire attraverso utenze
