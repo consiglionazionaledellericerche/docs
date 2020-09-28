@@ -5,8 +5,7 @@ La "Scrivania Digitale" è un’applicazione web che permette la gestione
 dei flussi Documentali all’interno di un Ente, di un'azienda o di una
 qualsiasi realtà strutturata di medie e grandi dimensioni.
 
-Il Sistema ha come obiettivo principale quello di guidare gli utenti
-predisposti nella gestione dei vari procedimenti amministrativi. In
+Il Sistema ha come obiettivo principale quello di guidare gli utenti nella gestione dei vari procedimenti amministrativi. In
 particolare è stata predisposta per:
 
 -  **Dematerializzare** (dematerializzazione del cartaceo)

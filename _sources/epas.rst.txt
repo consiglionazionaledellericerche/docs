@@ -1,5 +1,5 @@
-EPAS
-====
+EPAS - Istituto IIT
+===================
 
 ePAS è il nuovo sistema di rilevazione e gestione delle presenze del
 personale CNR. nasce nel 2012 come re-ingegnerizzazione di un sistema di

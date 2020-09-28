@@ -21,7 +21,7 @@ Elenco Progetti
      - Servizi in linea per il Personale
      - A breve
    * - :doc:`EPAS<epas>`
-     - Rilevazione Presenze del Personale
+     - Rilevazione Presenze del Personale - in collaborazione con l'Istituto IIT
      - A breve
    * - :doc:`ATTESTATI<attestati>`
      - Gestione Assenze e Competenze del Personale
