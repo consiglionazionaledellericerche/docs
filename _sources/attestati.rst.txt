@@ -17,7 +17,7 @@ In sintesi vengono riepilogati i principali passi del processo della procedura A
 
 -  Stralcio dati dalla procedura del Personale al sistema degli Attestati;
 
--  Caricamento per ogni singolo dipendente delle assenze, competenze, ore di formazione e numero buoni pasto spettanti nel mese con contestuale controllo del diritto ad usufruirne;
+-  Caricamento per ogni singolo dipendente delle assenze, competenze, ore di formazione e numero buoni pasto spettanti nel mese con contestuale controllo del diritto ad usufruirne. I dati vengono forniti dalla procedura di Rilevazione delle Presenza, ePas;
 
 -  Validazione Attestati da parte del compilatore;
 
