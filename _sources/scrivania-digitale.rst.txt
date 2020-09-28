@@ -94,4 +94,4 @@ digitale).
 .. seealso::
 
    - `Vai al codice <https://github.com/consiglionazionaledellericerche/sprint-flows>`_
-   - `Portale del riuso <https://developers.italia.it/it/software/cnr-consiglionazionaledellericerche-sprint-flows>`_
+   - `Vai al portale del riuso <https://developers.italia.it/it/software/cnr-consiglionazionaledellericerche-sprint-flows>`_
