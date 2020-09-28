@@ -32,9 +32,11 @@ Più in dettaglio, la procedura prevede la gestione di:
 
 -  Verifica amministrativa della proposta di Ordine di Missione;
 
--  Autorizzazione Amministrativa dell’Ordine di Missione (Scrivania Digitale);
+-  Processo autorizzativo dell’Ordine di Missione (Scrivania Digitale);
 
 -  Richiesta Rimborso della Missione;
+
+-  Verifica amministrativa della richiesta di Rimborso;
 
 -  Processo autorizzativo del Rimborso Missione (Scrivania Digitale);
 
