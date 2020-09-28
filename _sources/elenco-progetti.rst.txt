@@ -1,40 +1,40 @@
 Elenco Progetti
 ===============
 
-Di seguito l’elenco dei Progetti Software sviluppati dall'Ufficio ICT del CNR:
+.. list-table:: Elenco dei Progetti Software sviluppati dall'Ufficio ICT del CNR
+   :widths: 30 60 10
+   :header-rows: 1
 
-
-+------------------------------------------------+-----------------------------------------------------+------------------------+
-|                                                |                                                     |                        |
-| Nome                                           | Descrizione                                         | In Riuso               |
-+================================================+=====================================================+========================+
-|                                                |Sistema Integrato per la Gestione delle              |                        | 
-| :doc:`SIGLA<sigla>`                            |Linee di Attività                                    | Si                     |
-+------------------------------------------------+-----------------------------------------------------+------------------------+
-|                                                |Sistema di presentazione delle candidature online    |                        | 
-| :doc:`SELEZIONI ONLINE<selezioni-online>`      |per il reclutamento del personale                    | Si                     |
-+------------------------------------------------+-----------------------------------------------------+------------------------+
-|                                                |Gestione Flussi Amministrativi                       |                        | 
-| :doc:`SCRIVANIA DIGITALE<scrivania-digitale>`  |                                                     | Si                     |
-+------------------------------------------------+-----------------------------------------------------+------------------------+
-|                                                |Servizi in linea per il Personale                    |                        | 
-| :doc:`SIPER<siper>`                            |                                                     | A breve                |
-+------------------------------------------------+-----------------------------------------------------+------------------------+
-|                                                |Rilevazione Presenze del Personale                   |                        | 
-| :doc:`EPAS<epas>`                              |                                                     | A breve                |
-+------------------------------------------------+-----------------------------------------------------+------------------------+
-|                                                |Gestione Assenze e Competenze del Personale          |                        | 
-| :doc:`ATTESTATI<attestati>`                    |                                                     | A breve                |
-+------------------------------------------------+-----------------------------------------------------+------------------------+
-|                                                |Gestione Ordine e Rimborso Missioni                  |                        | 
-| :doc:`MISSIONI<missioni>`                      |                                                     | A breve                |
-+------------------------------------------------+-----------------------------------------------------+------------------------+
-|                                                |Gestione Anagrafica Centralizzata                    |                        | 
-| :doc:`ACE<ace>`                                |                                                     | A breve                |
-+------------------------------------------------+-----------------------------------------------------+------------------------+
-|                                                |Gestione della Formazione del Personale              |                        | 
-| :doc:`GESFOR<gesfor>`                          |                                                     | A breve                |
-+------------------------------------------------+-----------------------------------------------------+------------------------+
-|                                                |Helpdesk Online                                      |                        | 
-| :doc:`OIL<oil>`                                |                                                     | Si                     |
-+------------------------------------------------+-----------------------------------------------------+------------------------+
+   * - Nome
+     - Descrizione
+     - In Riuso
+   * - :doc:`SIGLA<sigla>`
+     - Sistema Integrato per la Gestione delle Linee di Attività
+     - Si
+   * - :doc:`SELEZIONI ONLINE<selezioni-online>`
+     - Sistema di presentazione delle candidature online per il reclutamento del personale
+     - Si
+   * - :doc:`SCRIVANIA DIGITALE<scrivania-digitale>`
+     - Gestione Flussi Amministrativi
+     - Si
+   * - :doc:`SIPER<siper>`
+     - Servizi in linea per il Personale
+     - A breve
+   * - :doc:`EPAS<epas>`
+     - Rilevazione Presenze del Personale
+     - A breve
+   * - :doc:`ATTESTATI<attestati>`
+     - Gestione Assenze e Competenze del Personale
+     - A breve
+   * - :doc:`MISSIONI<missioni>`
+     - Gestione Ordine e Rimborso Missioni
+     - A breve
+   * - :doc:`ACE<ace>`
+     - Gestione Anagrafica CEntralizzata
+     - A breve
+   * - :doc:`GESFOR<gesfor>`
+     - Gestione della Formazione del Personale
+     - A breve
+   * - :doc:`OIL<oil>`
+     - Helpdesk Online
+     - Si
