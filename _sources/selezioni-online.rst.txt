@@ -30,6 +30,11 @@ partecipano ai Bandi, è prevista una fase di:
 -  Consultazione delle domande il cui iter è stato completato o è in
    corso.
 
+.. figure:: _images/selezioni-online.png
+	:alt: Schermata di accesso a Selezioni online
+
+   	Schermata di accesso a Selezioni online
+
 `Vai al codice <https://github.com/consiglionazionaledellericerche/cool-jconon>`_
 
 `Vai alla documentazione <https://consiglionazionaledellericerche.github.io/cool-jconon>`_
