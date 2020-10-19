@@ -55,4 +55,4 @@ del personale di:
 .. seealso::
 
    - `Vai alla documentazione utente <https://epas.projects.iit.cnr.it/content/utente-finale>`_
-   - `Vai alla documentazione tecnica sei servizi REST <https://epas.projects.iit.cnr.it/content/epas-v104-documentazione-servizi-rest>`_
+   - `Vai alla documentazione tecnica dei servizi REST <https://epas.projects.iit.cnr.it/content/epas-v104-documentazione-servizi-rest>`_
