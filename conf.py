@@ -13,7 +13,7 @@
 #      You should have received a copy of the GNU Affero General Public License
 #      along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-import docs_italia_theme
+import docs_cnr_theme
 
 project = 'Progetti Software - Ufficio ICT'
 release = '1.0.0'
@@ -30,8 +30,8 @@ latex_elements = {
 }
 epub_basename = u'Progetti_Software_CNR'
 
-html_theme = "docs_italia_theme"
-html_theme_path = [docs_italia_theme.get_html_theme_path()]
+html_theme = "docs_cnr_theme"
+html_theme_path = [docs_cnr_theme.get_html_theme_path()]
 
 copyright = "2020 Consiglio Nazionale delle Ricerche"
 html_title = "Progetti Software - Ufficio ICT"
@@ -46,8 +46,7 @@ numfig = True
 # The master toctree document.
 master_doc = 'index'
 source_suffix = '.rst'
-# These folders are copied to the documentation's HTML output
-templates_path = ['_templates']
+
 
 extensions = [
     'sphinx.ext.autodoc',
@@ -56,5 +55,5 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.ifconfig',
-    'docs_italia_theme'
+    'docs_cnr_theme'
 ]
