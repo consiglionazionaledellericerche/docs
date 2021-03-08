@@ -22,7 +22,7 @@ Elenco Progetti
      - A breve
    * - :doc:`EPAS<epas>`
      - Rilevazione Presenze del Personale - in collaborazione con l'Istituto IIT
-     - A breve
+     - Si
    * - :doc:`ATTESTATI<attestati>`
      - Gestione Assenze e Competenze del Personale
      - A breve

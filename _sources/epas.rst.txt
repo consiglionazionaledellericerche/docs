@@ -1,8 +1,8 @@
 EPAS
 ====
 
-ePAS è il nuovo sistema di rilevazione e gestione delle presenze del
-personale CNR sviluppato dall'Istituto IIT in collaborazione con l'Ufficio ICT, nasce nel 2012 come re-ingegnerizzazione di un sistema di
+ePAS è il nuovo sistema di rilevazione e gestione delle presenze del
+personale CNR sviluppato dall'Istituto IIT in collaborazione con l'Ufficio ICT, nasce nel 2012 come re-ingegnerizzazione di un sistema di
 rilevazione delle presenze già sviluppato anni prima.
 Consente l’integrazione con vari modelli di lettore badge per l'acquisizione delle timbrature del personale ed e’ integrato con varie componenti del
 sistema informativo dell'Ente e con sistemi di workflow paperless.
@@ -54,5 +54,7 @@ del personale di:
 
 .. seealso::
 
-   - `Vai alla documentazione utente <https://epas.projects.iit.cnr.it/content/utente-finale>`_
-   - `Vai alla documentazione tecnica dei servizi REST <https://epas.projects.iit.cnr.it/content/epas-v104-documentazione-servizi-rest>`_
+   - `Vai al codice <https://github.com/consiglionazionaledellericerche/epas>`_
+   - `Vai alla documentazione <https://consiglionazionaledellericerche.github.io/epas>`_
+   - `Scarica manuale in pdf <https://consiglionazionaledellericerche.github.io/epas/Manuale-ePAS.pdf>`_
+   - `Vai al portale del riuso <https://developers.italia.it/it/software/cnr-consiglionazionaledellericerche-epas>`_
